@@ -1,6 +1,6 @@
-package com.ganesh.homeassesment.dao;
+package com.example.dao;
 
-import com.ganesh.homeassesment.rest.model.Place;
+import com.example.rest.model.Place;
 
 import java.util.List;
 import java.util.UUID;

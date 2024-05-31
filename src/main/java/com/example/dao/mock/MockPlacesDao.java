@@ -1,8 +1,8 @@
-package com.ganesh.homeassesment.dao.mock;
+package com.example.dao.mock;
 
+import com.example.dao.PlacesDao;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ganesh.homeassesment.dao.PlacesDao;
-import com.ganesh.homeassesment.rest.model.Place;
+import com.example.rest.model.Place;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

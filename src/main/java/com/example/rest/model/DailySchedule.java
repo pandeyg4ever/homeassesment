@@ -1,4 +1,4 @@
-package com.ganesh.homeassesment.rest.model;
+package com.example.rest.model;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
